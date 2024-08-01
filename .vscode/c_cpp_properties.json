@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/include",
-                "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/src",
-                "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/.pio/libdeps/mkrwifi1010/PubSubClient/src",
-                "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/.pio/libdeps/mkrwifi1010/WiFiNINA/src",
+                "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/include",
+                "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/src",
+                "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/.pio/libdeps/mkrwifi1010/PubSubClient/src",
+                "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/.pio/libdeps/mkrwifi1010/WiFiNINA/src",
                 "C:/Users/luism/.platformio/packages/framework-arduino-samd/libraries/SPI",
                 "C:/Users/luism/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
                 "C:/Users/luism/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
@@ -35,10 +35,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/include",
-                    "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/src",
-                    "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/.pio/libdeps/mkrwifi1010/PubSubClient/src",
-                    "C:/Users/luism/OneDrive/Documents/PlatformIO/Projects/MercuriusClient/.pio/libdeps/mkrwifi1010/WiFiNINA/src",
+                    "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/include",
+                    "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/src",
+                    "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/.pio/libdeps/mkrwifi1010/PubSubClient/src",
+                    "C:/Users/luism/OneDrive/Ambiente de Trabalho/projetos/MercuriusClient/.pio/libdeps/mkrwifi1010/WiFiNINA/src",
                     "C:/Users/luism/.platformio/packages/framework-arduino-samd/libraries/SPI",
                     "C:/Users/luism/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated",
                     "C:/Users/luism/.platformio/packages/framework-arduino-samd/cores/arduino/api/deprecated-avr-comp",
