@@ -1,4 +1,4 @@
-Simple Arduino code for interacting with a MQTT Broker, in this case, with Mercurius. Should be able to deal with symmetric key encryption, heartbeat, processing from the Mercurius Hub and status checks.
+Pub-Sub implementation with Arduino MKRCarrier library support code for interacting with a MQTT Broker.
 
 
 ### Creating the queue for RabbitMQ:
