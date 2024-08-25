@@ -33,3 +33,6 @@
 
 #Secrets file
 src/config.h
+
+.pio/
+.vscode/
