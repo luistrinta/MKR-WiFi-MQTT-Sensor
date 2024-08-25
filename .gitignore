@@ -36,3 +36,6 @@ src/config.h
 
 .pio/
 .vscode/
+/.pio
+/.pio/build
+/.pio/libdeps
