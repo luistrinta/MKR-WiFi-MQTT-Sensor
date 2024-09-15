@@ -1,5 +1,5 @@
 # MKR-WiFi-MQTT-Sensor
- This Arduino sketch publishes temperature, humidity, and moisture data from an MKRIoT Carrier to an MQTT broker. It connects to WiFi and reconnects to the broker if necessary. Visual feedback is provided on the carrier display.
+ This Arduino sketch publishes temperature, humidity, and moisture data from a MKRIoT Carrier to a MQTT broker. It connects to WiFi and reconnects to the broker if necessary. Visual feedback is provided on the carrier display.
 
 ## Features:
 
