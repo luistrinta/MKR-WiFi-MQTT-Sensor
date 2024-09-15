@@ -25,4 +25,4 @@ const char * CONNECTION_STRING="HostName=server-ip-address;DeviceID=null;Key=nul
 const char * WIFI_NAME="Name of your wifi network";
 const char * WIFI_PASSWORD="password for your wifi network";
 ```
-Note thst in the CONNECTION_STRING field, the deviceid and key fields are specific to another project that uses this approach, and for other use cases can be discarded.
+Note that in the **CONNECTION_STRING** field, the **DeviceID** and **Key** fields are specific to another project that uses this approach, and for other use cases can be discarded.
