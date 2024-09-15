@@ -14,3 +14,15 @@
 - WiFiNINA library
 - PubSubClient library
 - Arduino_MKRIoTCarrier library
+
+## Configuration file:
+The client uses a configuration file config.h with the following format
+
+```cpp
+#pragma once
+
+const char * CONNECTION_STRING="HostName=server-ip-address;DeviceID=null;Key=null"; 
+const char * WIFI_NAME="Name of your wifi network";
+const char * WIFI_PASSWORD="password for your wifi network";
+```
+Note thst in the CONNECTION_STRING field, the deviceid and key fields are specific to another project that uses this approach, and for other use cases can be discarded.
